@@ -1,4 +1,4 @@
-# Lava_Lamp
+# Bubbles
 
 Graphics in rustlang using piston
 
